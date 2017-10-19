@@ -5,6 +5,7 @@ Verktøy:
 * Et terminalvindu (hvis du er på Windows anbefaler jeg å laste ned feks. [Git for Windows](https://git-for-windows.github.io/)), for mac kan du bruke den innebygde, evt. ohmyzsh, iterm2, fish, osv... Det samme gjelder for Mac som for Linux
 * En editor (Sublime text, Atom, notepad++, visual code, vim, nano, osv...)
 
+Hubot-dokumentasjon [finner du her](https://hubot.github.com/docs/)
 
 Hvordan komme i gang? Her følger en liste over hvordan vi kommer i gang med Hubot. 
 

@@ -1,7 +1,16 @@
+// Commands:
+//    hello - Responderer med hello
+//    hubot hvem er din mester - Responderer med "Du er min mester"
+
+
 /*
 
 Alle Hubot-script må exportere en funksjon som gjort under. hubot-variabelen er tilgjengelig som parameter
 og blir brukt for å lytte på meldinger man skriver direkte til den, eller generelt i en Slack-kanal
+
+Oppgaver:
+        1. Skriv en hubot-kommando som lytter på samtaler og svarer generelt
+        2. Skriv en hubot-kommando som responderer på en kommando hubot blir gitt, og svarer direkte til brukeren
 
 */
 
