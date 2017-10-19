@@ -1,5 +1,7 @@
 ## Hubot Workshop
 
+Join slack [Klikk her for å joine Fagutvalget-Hackathon på Slack](https://join.slack.com/t/fagutvalget-hackathon/shared_invite/enQtMjU5ODAxNzAyNTY3LTU5YmEyM2MzMDY0MWIyNWNkZTViMTU1YmU2YjkzMjBjMTY1OTEwMmJiMjk1NTViYmNkNjQ1NGM2NzA5OWU0YzY)
+
 Verktøy: 
 
 * Et terminalvindu (hvis du er på Windows anbefaler jeg å laste ned feks. [Git for Windows](https://git-for-windows.github.io/)), for mac kan du bruke den innebygde, evt. ohmyzsh, iterm2, fish, osv... Det samme gjelder for Mac som for Linux
