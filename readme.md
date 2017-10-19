@@ -33,4 +33,4 @@ Terminalen skal printe ut et versjonsnummer og dersom du ser det er alt ok
 
 7. Last ned scripts-mappen fra [Hubot-workshop git-repoet](https://github.com/sndrem/Hubot-workshop) og overskriv scripts-mappen som ble automatisk generert. Her ligger en del eksempler på ulike ting man kan gjøre med Hubot. 
 
-Alle script som Hubot skal bruke skriver som javascrip- eller coffeescript-filer i scripts-mappen. Man trenger ikke fortelle hubot hvor disse filene ligger, det vet han selv.
+Alle script som Hubot skal bruke skriver som javascript- eller coffeescript-filer i scripts-mappen. Man trenger ikke fortelle hubot hvor disse filene ligger, det vet han selv.
