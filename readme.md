@@ -46,6 +46,8 @@ Terminalen skal printe ut et versjonsnummer og dersom du ser det er alt ok
 
 Alle script som Hubot skal bruke skrives som javascript- eller coffeescript-filer i scripts-mappen. Man trenger ikke fortelle hubot hvor disse filene ligger, det vet han selv.
 
+Før du går videre, ta gjerne og se gjennom [oppgavene som ligger her](https://github.com/sndrem/Hubot-workshop/blob/master/oppgaver.md)
+
 ##### Deploye Hubot til en server (Heroku)
 For at vi skal slippe å kjøre Hubot lokalt i terminalen kan vi deploye Hubot til en server et annet sted. Et, av flere enkle løsninger er å bruke Heroku sitt gratisalternativ. Heroku lar oss med enkle kommandoer i terminalen pushe hubot til servern, og enkelt oppdatere med ny funksjonalitet, på samme måte som man pusher til feks. Github.
 
