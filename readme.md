@@ -1,10 +1,15 @@
 ## Hubot Workshop
+Her følger en introduksjon til Hubot og hvordan man kommer i gang med utvikling av Hubot. Jeg har prøvd å lage en enkel guide, men ønsker du enda mer informasjon kan jeg anbefale den litt mer [dyptgående guiden til Bekk som du finner her](https://github.com/bekk/chatops-workshop)
+
+Denne guiden tar først og fremst for seg utvikling lokalt, men mot slutten av guiden og workshopen skal vi gå gjennom hvordan man kan deploye boten til Heroku og dermed ha kontakt med den via Slack, selv når din egen maskin er avslått.
 
 Join slack her: [Klikk her for å joine Fagutvalget-Hackathon på Slack](https://join.slack.com/t/fagutvalget-hackathon/shared_invite/enQtMjU5ODAxNzAyNTY3LTU5YmEyM2MzMDY0MWIyNWNkZTViMTU1YmU2YjkzMjBjMTY1OTEwMmJiMjk1NTViYmNkNjQ1NGM2NzA5OWU0YzY)
 
 Verktøy: 
 
 * Et terminalvindu (hvis du er på Windows anbefaler jeg å laste ned feks. [Git for Windows](https://git-for-windows.github.io/)), for Mac og Linux kan du bruke den innebygde terminalen, evt. ohmyzsh, iterm2, fish, osv...
+..* [Iterm2](https://www.iterm2.com/)
+..*
 * En editor (Sublime text, Atom, notepad++, visual code, vim, nano, osv...)
 
 Hubot-dokumentasjon [finner du her](https://hubot.github.com/docs/)
@@ -25,7 +30,9 @@ Hvordan komme i gang? Her følger en liste over hvordan vi kommer i gang med Hub
 Terminalen skal printe ut et versjonsnummer og dersom du ser det er alt ok
 
 3. Installer hubot-generatoren via kommandoen under
+    ````
     npm install -g yo generator-hubot
+    ````
 
 4. Opprett så en ny mappe, enten via filutforskeren (høyreklikk -> ny mappe) eller via terminalen og kommandoen under
 
