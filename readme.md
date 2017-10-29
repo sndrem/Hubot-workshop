@@ -49,7 +49,7 @@ Terminalen skal printe ut et versjonsnummer og dersom du ser det er alt ok
     
 6. Hubot-generatoren vil da starte og du får noen spørsmål som du svarer på, før dependencies blir lastet ned. Etter et par minutter har du fått en del nye filer i mappen. Åpne mappen i editoren og så er du klar for å programmere Huboten din.
 
-7. Last ned scripts-mappen fra [Hubot-workshop git-repoet](https://github.com/sndrem/Hubot-workshop) og overskriv scripts-mappen som ble automatisk generert. Her ligger en del eksempler på ulike ting man kan gjøre med Hubot. 
+7. (Dersom du har klonet repoet direkte fra Github kan du hoppe over dette steget). Last ned scripts-mappen fra [Hubot-workshop git-repoet](https://github.com/sndrem/Hubot-workshop) og overskriv scripts-mappen som ble automatisk generert. Her ligger en del eksempler på ulike ting man kan gjøre med Hubot. 
 
 Alle script som Hubot skal bruke skrives som javascript- eller coffeescript-filer i scripts-mappen. Man trenger ikke fortelle hubot hvor disse filene ligger, det vet han selv.
 
