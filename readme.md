@@ -1,9 +1,9 @@
 ## Hubot Workshop
-Her følger en introduksjon til Hubot og hvordan man kommer i gang med utvikling av Hubot. Jeg har prøvd å lage en enkel guide, men ønsker du enda mer informasjon kan jeg anbefale den litt mer [dyptgående guiden til Bekk som du finner her](https://github.com/bekk/chatops-workshop)
+Her følger en introduksjon til Hubot og hvordan man kommer i gang med utvikling av Hubot. Jeg har prøvd å lage en enkel guide, men ønsker du enda mer informasjon kan jeg anbefale den litt mer [dyptgående guiden til Bekk som du finner her](https://github.com/bekk/chatops-workshop).
 
 Denne guiden tar først og fremst for seg utvikling lokalt, men mot slutten av guiden og workshopen skal vi gå gjennom hvordan man kan deploye boten til Heroku og dermed ha kontakt med den via Slack, selv når din egen maskin er avslått.
 
-Join slack her: [Klikk her for å joine Fagutvalget-Hackathon på Slack](https://join.slack.com/t/fagutvalget-hackathon/shared_invite/enQtMjU5ODAxNzAyNTY3LTU5YmEyM2MzMDY0MWIyNWNkZTViMTU1YmU2YjkzMjBjMTY1OTEwMmJiMjk1NTViYmNkNjQ1NGM2NzA5OWU0YzY)
+**Join slack her**: [Klikk her for å joine Fagutvalget-Hackathon på Slack](https://join.slack.com/t/fagutvalget-hackathon/shared_invite/enQtMjU5ODAxNzAyNTY3LTU5YmEyM2MzMDY0MWIyNWNkZTViMTU1YmU2YjkzMjBjMTY1OTEwMmJiMjk1NTViYmNkNjQ1NGM2NzA5OWU0YzY)
 
 Verktøy: 
 
