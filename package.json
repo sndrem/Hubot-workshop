@@ -4,7 +4,9 @@
   "private": true,
   "author": "sndrem <sndrem@gmail.com>",
   "description": "Workshop-bot",
-  "scripts": { "start": "./bin/hubot"},
+  "scripts": {
+    "start": "./bin/hubot"
+  },
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
