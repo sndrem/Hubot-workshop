@@ -7,7 +7,7 @@ module.exports = function(hubot) {
              .header("Accept", "application/json")
              .get()(function(err, response, body) {
                  const data = JSON.parse(body).gitmojis;
-                 const x = data.map(emoji => `${emoji.emoji} - ${emoji.description}\n\n`).join("");
+                 const x = data.map(emoji => `${emoji.emoji} - <kolon>${emoji.name}<kolon> - ${emoji.description}\n\n`).join("");
                  res.send(x);
             });
     });
